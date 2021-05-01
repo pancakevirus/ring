@@ -126,3 +126,10 @@ Contents:
    How to contribute? <contribute>
    Language Specification <reference>
    Resources <resources>
+
+.. toctree::
+   :hidden:
+
+   generalinfo
+   ringopengl10func
+
